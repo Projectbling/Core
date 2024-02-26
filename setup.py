@@ -1,14 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my_project",
+    name="mediator",
     version="0.1.0",
-    url="http://github.com/yourusername/myproject",
-    author="Author Name",
+    url="https://github.com/Projectbling/Core",
+    author="ProjectBlink",
     author_email="author@gmail.com",
-    description="Description of my package",
+    description="Bir Mediator Pattern Kütüphanesi",
     packages=find_packages(),    
-    install_requires=[
-        "inspect"
-    ],
+    install_requires=[],
 )
