@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mediator"
+name = "projectBlinkMediator"
 version = "0.1.0"
 description = "mediator is a simple tool to help you manage your media files."
 authors = ["mediator <mediator@example.com>"]
