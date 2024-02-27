@@ -1,4 +1,4 @@
-from MediatorBaseRequestModel import MediatorRequestModel
+from .MediatorBaseRequestModel import MediatorRequestModel
 
 
 class MediatorBaseHandler:

@@ -1,1 +1,7 @@
-from mediator import *
+from .mediator import *
+
+__all__ = [
+    "Mediator",
+    "MediatorBaseHandler",
+    "MediatorRequestModel"
+]

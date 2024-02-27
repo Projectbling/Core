@@ -1,7 +1,7 @@
 import inspect
 
-from MediatorBaseRequestModel import MediatorRequestModel
-from MediatorBaseHandler import MediatorBaseHandler
+from .MediatorBaseRequestModel import MediatorRequestModel
+from .MediatorBaseHandler import MediatorBaseHandler
 
 
 

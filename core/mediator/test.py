@@ -1,8 +1,8 @@
-from MediatorBaseHandler import MediatorBaseHandler
-from mediator.Mediator import Mediator
+from .MediatorBaseHandler import MediatorBaseHandler
+from .Mediator import Mediator
 
 
-from MediatorBaseRequestModel import MediatorRequestModel
+from .MediatorBaseRequestModel import MediatorRequestModel
 
 class TestRequest(MediatorRequestModel):
     email:str
