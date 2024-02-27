@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "core"
+name = "ProjectblingCore"
 version = "0.3.0"
-description = "core is a simple tool to help you manage your media files."
+description = "core lib for Projectbling"
 authors = ["core <core@example.com>"]
 
 [tool.poetry.dependencies]

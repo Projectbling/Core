@@ -20,7 +20,7 @@ class Mediator:
 
     @staticmethod
     def handle(containerName:str,req:MediatorRequestModel):
-        Mediator.handlerMap.get(containerName).get(type(req)).handle(req)
+        return Mediator.handlerMap.get(containerName).get(type(req)).handle(req)
 
     
 
