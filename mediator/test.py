@@ -1,5 +1,5 @@
 from MediatorBaseHandler import MediatorBaseHandler
-from Mediator import Mediator
+from mediator.Mediator import Mediator
 
 
 from MediatorBaseRequestModel import MediatorRequestModel

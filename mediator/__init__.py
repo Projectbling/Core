@@ -1,6 +1,6 @@
-from Mediator import Mediator
-from MediatorBaseHandler import MediatorBaseHandler
-from MediatorBaseRequestModel import MediatorRequestModel
+from mediator.Mediator import Mediator as Mediator
+from mediator.MediatorBaseHandler import MediatorBaseHandler as MediatorBaseHandler
+from mediator.MediatorBaseRequestModel import MediatorRequestModel as MediatorRequestModel
 
 
 __all__ = [
